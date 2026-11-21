@@ -21,15 +21,7 @@
 
 | | |
 |---|---|
-| **Universidad de la Costa (CUC)** | Técnico en Desarrollo de Software |
-| 📧 jayrinicolleb@gmail.com | 📅 Segundo Semestre |
-
-## Contacto 📫
-
-- Correo: jayrinicolleb@gmail.com
-
-<div align="center">
-
+| <img src="cuc-logo.png" width="180" alt="CUC"> | **Universidad de la Costa (CUC)**<br>Técnico en Desarrollo de Software<br>jayrinicolleb@gmail.com<br>*Segundo Semestre* |
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff9a8b,50:ff6a88,100:ff99ac&height=100&section=footer)
 
 </div>
