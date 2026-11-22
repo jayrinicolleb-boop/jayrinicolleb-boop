@@ -17,13 +17,22 @@
 - 💡 Me motiva crear cosas útiles con código
 - 🍦 Me encantan el helado y las buenas ideas
 
-## Carrera 🎓
+<h2>Carrera 🎓</h2>
 
-| | |
-|---|---|
-| **Universidad de la Costa (CUC)** | Técnico en Desarrollo de Software |
-| 📧 jbarretop@cuc.edu.co | 📅 Segundo Semestre |
-
+<table>
+  <tr>
+    <td>
+      <img src="./logo.jpg" alt="Universidad de la Costa" height="60">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-2DO_SEMESTRE-F4A6C8?style=for-the-badge" alt="2do semestre">
+      <br>
+      <b>Técnico en Desarrollo de Software</b>
+      <br>
+      <sub>📧 <a href="mailto:jbarretop@cuc.edu.co">jbarretop@cuc.edu.co</a></sub>
+    </td>
+  </tr>
+</table>
 ## Mis hobbies 🌷
 
 - 🍦 Probar sabores nuevos de helado
