@@ -12,7 +12,7 @@
 
 ## Sobre mí ✨
 
-- 🔭 Actualmente trabajo en el proyecto **SAAS BPDS CUC1**
+- 🔭 Actualmente trabajo en el proyecto **StockLite (SAAS BPDS CUC1)**
 - 🌱 Estoy aprendiendo Git, GitHub y desarrollo de software
 - 💡 Me motiva crear cosas útiles con código
 - 🍦 Me encantan el helado y las buenas ideas
@@ -22,11 +22,30 @@
 | | |
 |---|---|
 | **Universidad de la Costa (CUC)** | Técnico en Desarrollo de Software |
-| 📧 jayrinicolleb@gmail.com | 📅 Segundo Semestre |
+| 📧 jbarretop@cuc.edu.co | 📅 Segundo Semestre |
+
+## Mis hobbies 🌷
+
+- 🍦 Probar sabores nuevos de helado
+- 🎧 Escuchar música mientras estudio
+- 📸 Tomar fotos
+- 🌱 Aprender cosas nuevas cada día
+
+## Mis proyectos 🚀
+
+- **StockLite / SAAS BPDS CUC1:** aplicación web para el control de stock y reposición en pequeños negocios (proyecto del curso, trabajo en equipo).
+- **Mi perfil de GitHub:** mi espacio para practicar Git y Markdown.
+
+## Mi Tech Stack 🛠️
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Contacto 📫
 
-- Correo: jayrinicolleb@gmail.com
+- Correo institucional: jbarretop@cuc.edu.co
 
 <div align="center">
 
