@@ -51,3 +51,20 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff9a8b,50:ff6a88,100:ff99ac&height=100&section=footer)
 
 </div>
+
+<h2>Carrera 🎓</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="./logo.jpg" alt="Universidad de la Costa" height="60">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-2DO_SEMESTRE-F4A6C8?style=for-the-badge" alt="2do semestre">
+      <br>
+      <b>Técnico en Desarrollo de Software</b>
+      <br>
+      <sub>📧 <a href="mailto:jbarretop@cuc.edu.co">jbarretop@cuc.edu.co</a></sub>
+    </td>
+  </tr>
+</table>
