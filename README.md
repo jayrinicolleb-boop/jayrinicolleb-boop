@@ -19,16 +19,16 @@
 
 <h2>Carrera 🎓</h2>
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <img src="./logo.jpg" alt="Universidad de la Costa" height="60">
+    <td width="25%" align="center">
+      <img src="./logo.jpg" alt="Universidad de la Costa" height="90">
     </td>
-    <td>
+    <td width="75%">
       <img src="https://img.shields.io/badge/-2DO_SEMESTRE-F4A6C8?style=for-the-badge" alt="2do semestre">
-      <br>
+      <br><br>
       <b>Técnico en Desarrollo de Software</b>
-      <br>
+      <br><br>
       <sub>📧 <a href="mailto:jbarretop@cuc.edu.co">jbarretop@cuc.edu.co</a></sub>
     </td>
   </tr>
