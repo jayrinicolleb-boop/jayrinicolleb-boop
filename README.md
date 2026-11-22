@@ -21,17 +21,15 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="./logo.jpg" alt="Universidad de la Costa" height="110">
+    <td>
+      <img src="./logo.jpg" alt="Universidad de la Costa" height="60">
     </td>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/badge/-2DO_SEMESTRE-F4A6C8?style=for-the-badge" alt="2do semestre">
-      <br><br>
-      <b>Técnico en Desarrollo de Software</b>
-      <br><br>
-      <sub>📧 <a href="mailto:jbarretop@cuc.edu.co">jbarretop@cuc.edu.co</a></sub>
       <br>
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="900" height="1" alt="">
+      <b>Técnico en Desarrollo de Software</b>
+      <br>
+      <sub>📧 <a href="mailto:jbarretop@cuc.edu.co">jbarretop@cuc.edu.co</a></sub>
     </td>
   </tr>
 </table>
