@@ -12,7 +12,7 @@
 
 ## Sobre mí ✨
 
-- 🔭 Actualmente trabajo en el proyecto **StockLite (SAAS BPDS CUC1)**
+- 🔭 Actualmente trabajo en el proyecto **AbonApp (SAAS BPDS CUC1)**
 - 🌱 Estoy aprendiendo Git, GitHub y desarrollo de software
 - 💡 Me motiva crear cosas útiles con código
 - 🍦 Me encantan el helado y las buenas ideas
